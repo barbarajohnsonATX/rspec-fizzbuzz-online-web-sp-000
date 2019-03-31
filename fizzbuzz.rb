@@ -9,5 +9,6 @@ def fizzbuzz(number)
     "FizzBuzz"
   else
     puts "Not divisible by 3 or 5"
+  end
   
 end
